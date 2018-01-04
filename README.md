@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;解决办法：去掉嵌套，自定义WebView处理滑动，具体参考CustWebView<br>
 2.自定义ScrollView，处理第二页内容很多，需要滑动的情况，具体参考BottomScrollView<br>
 3.自定义listView，处理第二页内容为listView的情况。具体参考CustListView<br>
-
+4.第一页太短不能能滑动，在ScrollView 加上属性 android:fillViewport="true"，让第一页充满布局，则可以滑动了
 
 ![PREVIEW](doc/capture.gif)
 
