@@ -11,4 +11,5 @@
 
 参考项目：
 https://github.com/Hankkin/TaoBaoDetailDemo
+<br>
 https://github.com/xmuSistone/VerticalSlideFragment
