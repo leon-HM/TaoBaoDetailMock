@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">仿京东淘宝详情</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="second_page_indicator">
+        <item>商品介绍</item>
+        <item>规格参数</item>
+        <item>包装售后</item>
+        <item>评论</item>
+    </string-array>
+</resources>

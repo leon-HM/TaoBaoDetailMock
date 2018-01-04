@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<com.leon.taobaodetailmock.widget.BottomScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   android:layout_width="match_parent"
+                                                   android:layout_height="match_parent"
+                                                   android:fillViewport="true"
+    >-->
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+              <!--android:orientation="vertical"-->
+              <!--android:layout_width="match_parent"-->
+              <!--android:layout_height="wrap_content">-->
+    <!--&lt;!&ndash;<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="=================the top================="-->
+        <!--android:maxLines="1"-->
+        <!--/>&ndash;&gt;-->
+    <!--<com.leon.taobaodetailmock.widget.CustListView-->
+        <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:divider="@color/grey_normal_bg"-->
+        <!--android:dividerHeight="@dimen/spacing_tiny"-->
+        <!--android:id="@+id/nlv_good_detial_imgs"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"/>-->
+   <!--&lt;!&ndash; <TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="=================the end================="-->
+        <!--android:maxLines="1"-->
+        <!--/>&ndash;&gt;-->
+<!--</LinearLayout>-->
+    <!--</com.leon.taobaodetailmock.widget.BottomScrollView>-->
+
+<com.leon.taobaodetailmock.widget.CustListView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:divider="@color/grey_normal_bg"
+android:dividerHeight="@dimen/spacing_tiny"
+android:id="@+id/nlv_good_detial_imgs"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"/>
