@@ -9,7 +9,7 @@
 
 ![PREVIEW](doc/capture.gif)
 
-参考项目：
+参考项目：<br>
 https://github.com/Hankkin/TaoBaoDetailDemo
 <br>
 https://github.com/xmuSistone/VerticalSlideFragment
